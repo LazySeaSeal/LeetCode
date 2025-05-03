@@ -1,6 +1,6 @@
 class Solution {
 public:
-   int f(vector<int> &a, vector<int> &b)
+int f(vector<int> &a, vector<int> &b)
 {
     unordered_map<int, int> umap;
     if (a[0] != b[0])
@@ -12,7 +12,6 @@ public:
         umap[a[0]] = 0;
 
     for (int i = 1; i < a.size(); i++)
-    {
         if (a[i] == b[i])
         {
             if (umap.find(a[i]) == umap.end())
@@ -38,7 +37,6 @@ public:
                 else
                     ++it;
             }
-        }
     }
     int res = a.size();
     for (auto &it : umap)
