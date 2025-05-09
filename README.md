@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/LazySeaSeal/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/LazySeaSeal/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -79,18 +80,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
 |  |
 | ------- |
