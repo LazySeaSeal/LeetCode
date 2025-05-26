@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -88,16 +89,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/LazySeaSeal/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -158,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
