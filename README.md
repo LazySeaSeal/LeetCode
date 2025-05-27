@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/LazySeaSeal/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
