@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LazySeaSeal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/LazySeaSeal/LeetCode/tree/master/0075-sort-colors) |
+| [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LazySeaSeal/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/LazySeaSeal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LazySeaSeal/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
