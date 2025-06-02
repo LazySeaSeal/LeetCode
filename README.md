@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LazySeaSeal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/LazySeaSeal/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/LazySeaSeal/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LazySeaSeal/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/LazySeaSeal/LeetCode/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LazySeaSeal/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LazySeaSeal/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3647-zero-array-transformation-iii](https://github.com/LazySeaSeal/LeetCode/tree/master/3647-zero-array-transformation-iii) |
