@@ -2,15 +2,13 @@ class Solution {
 public:
     int maxProfit(vector<int>& v) {
         int d=0,f,res=0;
-       for(int i=0;i<v.size();i++)
-        for(int j=i+1;j<v.size();j++)
-            {
-                if (v[j]-v[i]>0)
-                    res=max(res,v[j]-v[i]);
-                else
-                    break;
-            }
-    return res;
+    int low=v[0];
+    for(int i=1;i<v.size();i++)
+        {
+            res=max(res,v[i]-low);
+            low=min(low,v[i]);
+        }
+        return res;
 
 }
 };
