@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/LazySeaSeal/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LazySeaSeal/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/LazySeaSeal/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LazySeaSeal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
