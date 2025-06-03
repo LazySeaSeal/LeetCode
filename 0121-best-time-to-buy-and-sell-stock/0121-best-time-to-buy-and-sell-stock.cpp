@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxProfit(vector<int>& v) {
         int d=0,f,res=0;
-   while(d<v.size()-1)
+    while(d<v.size()-1)
    {
         for(f=d+1;f<v.size();f++)
         {
@@ -15,5 +15,6 @@ public:
         d=f;
    }
    return(res);
+
 }
 };
