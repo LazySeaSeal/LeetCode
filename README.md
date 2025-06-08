@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/LazySeaSeal/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/LazySeaSeal/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/LazySeaSeal/LeetCode/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
