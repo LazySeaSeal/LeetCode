@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2479-meeting-rooms-iii](https://github.com/LazySeaSeal/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LazySeaSeal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/LazySeaSeal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LazySeaSeal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/LazySeaSeal/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/LazySeaSeal/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/LazySeaSeal/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
