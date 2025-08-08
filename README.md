@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/LazySeaSeal/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/LazySeaSeal/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/LazySeaSeal/LeetCode/tree/master/0070-climbing-stairs) |
+| [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LazySeaSeal/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/LazySeaSeal/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LazySeaSeal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LazySeaSeal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LazySeaSeal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
