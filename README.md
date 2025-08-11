@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LazySeaSeal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LazySeaSeal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/LazySeaSeal/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/LazySeaSeal/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/LazySeaSeal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LazySeaSeal/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/LazySeaSeal/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/LazySeaSeal/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LazySeaSeal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/LazySeaSeal/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Brainteaser
 |  |
 | ------- |
