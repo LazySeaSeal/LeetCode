@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/LazySeaSeal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LazySeaSeal/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/LazySeaSeal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LazySeaSeal/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LazySeaSeal/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LazySeaSeal/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LazySeaSeal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -424,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
