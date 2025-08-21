@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/LazySeaSeal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/LazySeaSeal/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LazySeaSeal/LeetCode/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/LazySeaSeal/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/LazySeaSeal/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LazySeaSeal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LazySeaSeal/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/LazySeaSeal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/LazySeaSeal/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
