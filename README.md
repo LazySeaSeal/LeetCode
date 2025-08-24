@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/LazySeaSeal/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LazySeaSeal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/LazySeaSeal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/LazySeaSeal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LazySeaSeal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/LazySeaSeal/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/LazySeaSeal/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LazySeaSeal/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
