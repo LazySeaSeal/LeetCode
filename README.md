@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/LazySeaSeal/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/LazySeaSeal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/LazySeaSeal/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/LazySeaSeal/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/LazySeaSeal/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazySeaSeal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/LazySeaSeal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazySeaSeal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LazySeaSeal/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -519,10 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/LazySeaSeal/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
