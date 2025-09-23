@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LazySeaSeal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/LazySeaSeal/LeetCode/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/LazySeaSeal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LazySeaSeal/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/LazySeaSeal/LeetCode/tree/master/0079-word-search) |
+| [0165-compare-version-numbers](https://github.com/LazySeaSeal/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0868-push-dominoes](https://github.com/LazySeaSeal/LeetCode/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/LazySeaSeal/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/LazySeaSeal/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
