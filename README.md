@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LazySeaSeal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/LazySeaSeal/LeetCode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/LazySeaSeal/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/LazySeaSeal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0830-largest-triangle-area](https://github.com/LazySeaSeal/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/LazySeaSeal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazySeaSeal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/LazySeaSeal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LazySeaSeal/LeetCode/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LazySeaSeal/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
