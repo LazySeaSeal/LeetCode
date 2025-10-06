@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/LazySeaSeal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/LazySeaSeal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/LazySeaSeal/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/LazySeaSeal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/LazySeaSeal/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazySeaSeal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LazySeaSeal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LazySeaSeal/LeetCode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LazySeaSeal/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LazySeaSeal/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/LazySeaSeal/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LazySeaSeal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/LazySeaSeal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/LazySeaSeal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -407,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/LazySeaSeal/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/LazySeaSeal/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2121-find-if-path-exists-in-graph](https://github.com/LazySeaSeal/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
