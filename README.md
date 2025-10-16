@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LazySeaSeal/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/LazySeaSeal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/LazySeaSeal/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/LazySeaSeal/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/LazySeaSeal/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/LazySeaSeal/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/LazySeaSeal/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LazySeaSeal/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/LazySeaSeal/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/LazySeaSeal/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LazySeaSeal/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/LazySeaSeal/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/LazySeaSeal/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/LazySeaSeal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/LazySeaSeal/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LazySeaSeal/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/LazySeaSeal/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/LazySeaSeal/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/LazySeaSeal/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/LazySeaSeal/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/LazySeaSeal/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/LazySeaSeal/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/LazySeaSeal/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/LazySeaSeal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
