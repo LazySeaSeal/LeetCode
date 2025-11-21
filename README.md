@@ -28,7 +28,7 @@ This section shows all LeetCode problems solved, organized chronologically.
 - **[0100. Same Tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0100-same-tree)** - 🟢 Easy - C++
 - **[0101. Symmetric Tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree)** - 🟢 Easy - C++
 - **[0110. Balanced Binary Tree](https://github.com/LazySeaSeal/LeetCode/tree/master/0110-balanced-binary-tree)** - 🟢 Easy - C++
-- **[0118. Pascals Triangle](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle)** - 🟢 Easy - C++
+- **[0118. Pascal's Triangle](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle)** - 🟢 Easy - C++
 - **[0120. Triangle](https://github.com/LazySeaSeal/LeetCode/tree/master/0120-triangle)** - 🟡 Medium - C++
 - **[0121. Best Time To Buy And Sell Stock](https://github.com/LazySeaSeal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock)** - 🟢 Easy - C++
 - **[0135. Candy](https://github.com/LazySeaSeal/LeetCode/tree/master/0135-candy)** - 🔴 Hard - C++
@@ -211,7 +211,7 @@ This section shows all LeetCode problems solved, organized chronologically.
 | 0100 | Same Tree | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0100-same-tree) |
 | 0101 | Symmetric Tree | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0101-symmetric-tree) |
 | 0110 | Balanced Binary Tree | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0110-balanced-binary-tree) |
-| 0118 | Pascals Triangle | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle) |
+| 0118 | Pascal's Triangle | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0118-pascals-triangle) |
 | 0120 | Triangle | Medium | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0120-triangle) |
 | 0121 | Best Time To Buy And Sell Stock | Easy | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | 0135 | Candy | Hard | C++ | [View](https://github.com/LazySeaSeal/LeetCode/tree/master/0135-candy) |
